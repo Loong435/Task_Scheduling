@@ -2,11 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-# plt.style.use("ggplot")
-# shops = [0.05,0.1,0.2]
-# sales_product_1 = [100, 85, 56, 42, 72, 15]
-# sales_product_2 = [50, 120, 65, 85, 25, 55]
-# sales_product_3 = [20, 35, 45, 27, 55, 65]
 # data=pd.read_csv("./experiment4/result/node4_acc/success_differnamadalog.csv")
 # data=np.array(data)
 # x=np.array([10,11,12,13])
