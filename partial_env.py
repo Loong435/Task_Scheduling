@@ -2,7 +2,7 @@ import numpy as np
 from scipy import stats
 from collections import deque
 np.random.seed(3)
-from change_new_para import parameter_parser
+from para import parameter_parser
 class SchedulingEnv:
     def __init__(self, args):
         #policy number
